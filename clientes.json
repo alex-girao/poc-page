@@ -1,0 +1,38 @@
+[
+    {
+      "type": "CPF",
+      "document": "87242505038",
+      "name": "José Dantas da Silva",
+      "phone": "85991234567"
+    },
+    {
+      "type": "CNPJ",
+      "document": "59569278000127",
+      "name": "Brindes Fofos LTDA",
+      "phone": "11987654321"
+    },
+    {
+      "type": "CPF",
+      "document": "32165498701",
+      "name": "Ana Paula Ferreira",
+      "phone": "85998765432"
+    },
+    {
+      "type": "CNPJ",
+      "document": "12345678000195",
+      "name": "Tech Solutions Nordeste LTDA",
+      "phone": "85993456789"
+    },
+    {
+      "type": "CPF",
+      "document": "74185296300",
+      "name": "Carlos Eduardo Mendonça",
+      "phone": "85994567890"
+    },
+    {
+      "type": "CNPJ",
+      "document": "98765432000111",
+      "name": "Agro Forte Comércio S.A.",
+      "phone": "62995678901"
+    }
+]
